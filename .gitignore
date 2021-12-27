@@ -4,3 +4,5 @@
 session_name.session
 __pycache__/
 .chalice/config.json
+
+chalicelib/following_groups.yaml
