@@ -3,7 +3,13 @@
   "app_name": "telegram_bot",
   "stages": {
     "dev": {
-      "api_gateway_stage": "api"
+      "api_gateway_stage": "api",
+      "environment_variables": {
+        "api_id": "11493812",
+        "api_hash": "1321db697e928bed06acd0ae4201e87e",
+        "group_username": "HCCapital_Chat",
+        "session_token": "1BVtsOKwBu25k8Zyr5P8mVhF3zakB1F-lAjFQzVTon4jtrgUT9uvjfE_Ox-GOjjFNz7H9Y2Ih4oa4JEL9drLotXP2P8BRutv_S3xlgEgNTuo04N6Gl10ZFJtRqSsbRKnW1TFfmKvNqNmhJjNBUoWGxIXuuQvJQVUuyzXH5ZgEbbEDj0ORQVT0ly3Sq3J-U5pdVaeEj5tAoJrKYUh9iQ5oUy7d9h14MNycogFezFIq9e-t6LthjgntNamkF27Ew9YZRJb1O6VyE0_hRhBxG4zrshZ66JdYfImzoiYR7S6D4k-JKT-Vhad2-knTZkPQqDD7JiUaMq7ARsomRyY7qH6KcGsq1y8TW6Y="
+      }
     }
   }
 }
